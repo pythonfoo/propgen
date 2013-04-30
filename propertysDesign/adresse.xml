@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<dictionary>
+	<property>
+		<name typ="str">
+			adresse
+		</name>
+		<typinf typ="str">
+			3
+		</typinf>
+		<isKey typ="int">
+			1
+		</isKey>
+		<editable typ="int">
+			1
+		</editable>
+	</property>
+	<property>
+		<name typ="str">
+			name
+		</name>
+		<typinf typ="str">
+			3
+		</typinf>
+		<isKey typ="int">
+			1
+		</isKey>
+		<editable typ="int">
+			1
+		</editable>
+	</property>
+	<property>
+		<name typ="str">
+			vorname
+		</name>
+		<typinf typ="str">
+			3
+		</typinf>
+		<isKey typ="int">
+			1
+		</isKey>
+		<editable typ="int">
+			1
+		</editable>
+	</property>
+	<property>
+		<name typ="str">
+			key
+		</name>
+		<typinf typ="str">
+			1
+		</typinf>
+		<isKey typ="int">
+			1
+		</isKey>
+		<editable typ="int">
+			1
+		</editable>
+	</property>
+</dictionary>
